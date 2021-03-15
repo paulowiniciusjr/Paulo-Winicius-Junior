@@ -3,7 +3,18 @@ ARQUIVO 1
 AQUI É O TEXTO SALVO NA BRANCH
 
 TEXTO SALVO DIRETO NA MASTER
+
+----------------------------
+TRECHO 1 - DEVELOPMENT
+----------------------------
+Esse trecho de texto, vai continuar exclusivo na development, não pode subir pra master;
+
 ----------------------------
 TRECHO 2 - MASTER
 ----------------------------
 Esse trecho de texto, vai subir pra master
+
+----------------------------
+TRECHO 3 - DEVELOPMENT
+----------------------------
+Esse trecho de texto, vai continuar exclusivo na development, não pode subir pra master;
