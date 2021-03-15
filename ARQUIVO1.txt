@@ -12,3 +12,8 @@ TRECHO 2 - CRIADO NA MASTER
 TRECHO 3 - DEVELOPMENT
 ----------------------------
 TRECHO 3 - CRIADO NA DEVELOPMENT - VAI SUBIR PRA MASTER
+
+----------------------------
+TRECHO 4 - DEVELOPMENT
+----------------------------
+TRECHO 3 - CRIADO NA DEVELOPMENT - NÃO VAI SUBIR PRA MASTER
