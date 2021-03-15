@@ -4,7 +4,6 @@ AQUI É O TEXTO SALVO NA BRANCH
 
 TEXTO SALVO DIRETO NA MASTER
 
-
 ----------------------------
 TRECHO 1 - DEVELOPMENT
 ----------------------------
