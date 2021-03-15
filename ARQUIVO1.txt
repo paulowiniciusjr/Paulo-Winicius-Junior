@@ -14,3 +14,8 @@ Esse trecho de texto, vai continuar exclusivo na development, não pode subir pr
 TRECHO 2 - MASTER
 ----------------------------
 Esse trecho de texto, vai subir pra master
+
+----------------------------
+TRECHO 3 - DEVELOPMENT
+----------------------------
+Esse trecho de texto, vai continuar exclusivo na development, não pode subir pra master;
