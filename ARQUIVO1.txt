@@ -3,3 +3,7 @@ ARQUIVO 1
 AQUI É O TEXTO SALVO NA BRANCH
 
 TEXTO SALVO DIRETO NA MASTER
+----------------------------
+TRECHO 2 - MASTER
+----------------------------
+Esse trecho de texto, vai subir pra master
